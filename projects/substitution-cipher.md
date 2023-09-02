@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/subcipher.png
+image: img/subcipher2.png
 title: "Substitution Cipher"
 # All dates must be YYYY-MM-DD format!
 date: 2022
