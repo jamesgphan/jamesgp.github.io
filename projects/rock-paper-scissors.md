@@ -13,9 +13,9 @@ summary: "A rock paper scissors game written in C for ICS 212."
   <img class="img-fluid" src="../img/rockpaperscissorssmall.jpeg">
 </p>
 
-This is a simple rock paper scissors game that can be played against the computer. The game keeps track of the stats and the user can choose when to quit playing. 
+This is a simple rock paper scissors game that can be played against the computer. The game keeps track of the stats and the user can choose when to quit playing. The user is allowed to input a choice between rock, paper, or scissors. The computer chooses its turn via a random value. The turns are compared, and the score is recorded. 
 
-The user is allowed to input a choice between rock, paper, or scissors. The computer chooses its turn via a random value. The turns are compared, and the score is recorded. 
+This project was perhaps the second game I ever created. The biggest hurdles for me back then were dealing with user input and potential errors, and outlining all the cases in which to determine a win, loss, or tie. Those would be sections of my code that could be shortened in the future.
 
 ```
 $ ./program
