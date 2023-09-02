@@ -11,6 +11,8 @@ labels:
   - Hawaii
 summary: "A short analysis on George Helm's Personal Statement written for PHIL 100."
 ---
+<img class="img-fluid" src="../img/StopBombing.png">
+
 As part of my introductory philosophy course, I wrote a short analysis of George Helm's Personal Statement found in his personal journal. 
 
 George Helm was a Hawaiian activist and musician who advocated for the halt of military bombing exercises on the Hawaiian island of Kahoolawe.
