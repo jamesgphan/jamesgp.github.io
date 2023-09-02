@@ -30,3 +30,4 @@ User Wins: 0
 Computer Wins: 1
 Ties: 1
 ```
+[Source code](https://github.com/jamesgphan/rock-paper-scissors)
