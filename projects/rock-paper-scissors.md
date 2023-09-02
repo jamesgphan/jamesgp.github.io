@@ -14,7 +14,7 @@ This is a simple rock paper scissors game that can be played against the compute
 The user is allowed to input a choice between rock, paper, or scissors. The computer chooses its turn via a random value. The turns are compared, and the score is recorded. 
 
 ```
-./program
+$ ./program
 This is a rock-paper-scissors game.
 To quit the game, press Q or q and Enter.
 
