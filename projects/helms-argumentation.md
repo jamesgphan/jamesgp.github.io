@@ -11,7 +11,9 @@ labels:
   - Hawaii
 summary: "A short analysis on George Helm's Personal Statement written for PHIL 100."
 ---
-<img class="img-fluid" src="../img/StopBombing.png">
+<p align="center">
+  <img class="img-fluid" src="../img/StopBombing.png">
+</p>
 
 As part of my introductory philosophy course, I wrote a short analysis of George Helm's Personal Statement found in his personal journal. 
 
