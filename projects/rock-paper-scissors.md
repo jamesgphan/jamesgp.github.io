@@ -9,6 +9,10 @@ labels:
   - C
 summary: "A rock paper scissors game written in C for ICS 212."
 ---
+<p align="center">
+  <img class="img-fluid" src="../img/rockpaperscissorssmall.jpeg">
+</p>
+
 This is a simple rock paper scissors game that can be played against the computer. The game keeps track of the stats and the user can choose when to quit playing. 
 
 The user is allowed to input a choice between rock, paper, or scissors. The computer chooses its turn via a random value. The turns are compared, and the score is recorded. 
