@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-## Why Smart Questions?
+## Why Ask Smart Questions?
 Being able to ask smart questions is imperative for software engineers (for things such as debugging code for example). Firstly, it saves time and resources. Clear, well-articulated questions provide answerers with the necessary context needed to understand the problem at hand, speeding up the troubleshooting process, which is essential in the fast-paced world of software development.
 
 Furthermore, smart questions promote a culture of effective communication, knowledge-sharing and growth. They encourage meaningful discussions, where a variety of perspectives are considered. Nurturing a supportive environment, developers can improve on their programming knowledge by asking, answering, and learning from smart questions.
