@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-Coding standards may seem like a pedantic aspect of software development, often reduced to debates over indentation and curly brace placement. However, these seemingly minor details play a more significant role in shaping the development process and the quality of the code than one might think.
+Coding standards may seem like a pedantic aspect of software development, often reduced to debates over indentation and curly brace placement. These seemingly minor details, however, play a more significant role in shaping the development process and the quality of the code than one might think.
 
 One aspect that's often underestimated is how coding standards aid in learning a programming language. When developers follow conventions such as declaring and initializing variables in a consistent manner, it becomes easier for newcomers to grasp the language's nuances.
 
