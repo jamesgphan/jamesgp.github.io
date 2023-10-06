@@ -20,4 +20,4 @@ It's important to acknowledge that UI frameworks do have a learning curve. They 
 As for my own experience with Bootstrap 5, as a first-time user of both Bootstrap and web development technologies, it's been a journey filled with moments of frustration and moments of discovery. Bootstrap's documentation has played a pivotal role in helping me navigate this framework. While there's no denying the complexities, the benefits of UI frameworks like Bootstrap make them a valuable tool.
 
 Here's an example of a webpage built with Bootstrap: <a href="https://www.wokine.com/">Wokine</a>
-<img src="https://adminlte.io/wp-content/uploads/2021/06/wokine.jpg">
+<img src="https://adminlte.io/wp-content/uploads/2021/06/wokine.jpg" width="600px">
