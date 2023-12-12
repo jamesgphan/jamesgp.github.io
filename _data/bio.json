@@ -17,12 +17,13 @@
     { "name": "Mathematics" },
     { "name": "Data Analysis" },
     { "name": "Machine Learning" },
-    { "name": "Econometrics" }
+    { "name": "Econometrics" },
+    { "name": "Front-end Development"}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "R" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "MeteorJS", "Python", "R" ]
     },
     {
       "name": "Toolsets/OS",
