@@ -13,7 +13,13 @@
       { "network": "linkedin", "username": "jamesgphan", "url": "http://linkedin.com/in/jamesgphan" }
     ]
   },
-  "interests": [{ "name": "Mathematics", "Data Analysis", "Machine Learning", "Econometrics", "Front-end Development"}],
+  "interests": [
+    { "name": "Mathematics" },
+    { "name": "Data Analysis" },
+    { "name": "Machine Learning" },
+    { "name": "Econometrics" },
+    { "name": "Front-end Development"}
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
