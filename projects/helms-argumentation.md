@@ -4,7 +4,7 @@ type: project
 image: img/George_Helm.jpg
 title: "Helm's Argumentation"
 date: 2020
-published: true
+published: false
 labels:
   - Philosophy
   - Analysis
