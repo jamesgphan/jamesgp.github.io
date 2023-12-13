@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "James Phan",
+    "label": "Student",
+    "picture": "https://github.com/jamesgphan.png",
+    "email": "jamesgp@hawaii.edu",
+    "phone": "808-200-6674",
+    "website": "https://jamesgphan.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jamesgphan", "url": "http://github.com/jamesgphan" },
+      { "network": "linkedin", "username": "jamesgphan", "url": "http://linkedin.com/in/jamesgphan" }
+    ]
+  },
+  "interests": [
+    { "name": "Mathematics" },
+    { "name": "Data Analysis" },
+    { "name": "Machine Learning" },
+    { "name": "Econometrics" },
+    { "name": "Front-end Development"}
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "MeteorJS", "Python", "R" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "",
+      "position": "High School Math Tutor",
+      "website": "",
+      "startDate": "2018",
+      "endDate": "2022",
+      "summary": "Tutor high school students in math",
+      "highlights": [
+        "Assist students in subjects ranging from algebra, geometry to calculus",
+        "Organize and create study material to prepare for standardized testing or class exams"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "National Honors Society",
+      "website": "",
+      "position": "Member/Volunteer",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "Participate in commmunity service activities",
+      "highlights": [
+        "Emphasize academic achievement, leadership, service, and character",
+        "Communicate and collaborate with members of community to coordinate events"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Violet Sato Scholarship",
+      "date": "2021-2023",
+      "awarder": "Violet Sato Fund",
+      "summary": ""
+    },
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2021-2022",
+      "awarder": "University of Hawaii",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
