@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-In my six-month software engineering journey, I've acquired insights and skills that reach beyond the scope of web application development. Don’t get me wrong; gaining proficiency in this skill is undoubtedly a valuable takeaway, but the true lessons lie elsewhere, and their significance cannot be understated. I've acquired a deeper understanding of essential software engineering concepts and picked up valuable tidbits of wisdom along the way. The first two topics that stand out in this regard are Agile Project Management and Design Patterns.
+In my four-month software engineering journey, I've acquired insights and skills that reach beyond the scope of web application development. Don’t get me wrong; gaining proficiency in this skill is undoubtedly a valuable takeaway, but the true lessons lie elsewhere, and their significance cannot be understated. I've acquired a deeper understanding of essential software engineering concepts and picked up valuable tidbits of wisdom along the way. The first two topics that stand out in this regard are Agile Project Management and Design Patterns.
 
 Think of Agile Project Management and its subset, Issue Driven Project Management, like planning a road trip. You've got a destination in mind, but you're not mapping out every single mile at the start. Instead, you break the journey into manageable chunks (issues) and adjust your route as needed. This way, if you hit traffic (unexpected issues), you can reroute without scrapping the whole trip. This approach is not limited to web application development; its principles can be applied to a spectrum of projects across diverse industries, such as optimizing supply chain processes, or even guiding academic research projects.
 
